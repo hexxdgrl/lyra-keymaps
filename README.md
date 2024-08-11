@@ -1,6 +1,6 @@
 # My Keyboards
 ## I am currently using: CRKBD Corne Rev 3 Cherry
-![alt text](https://github.com/hexxdgrl/lyra-keymaps/blob/dev/img/lyra-miryogram-3x6.png)
+![keyboard layout](https://github.com/hexxdgrl/lyra-keymaps/blob/dev/img/lyra-miryogram-3x6.png)
 This keymap is based on the [Miryoku Layout](https://github.com/manna-harbour/miryoku) and [Arno's Engram V2 Layout](https://engram.dev/).
 
 
